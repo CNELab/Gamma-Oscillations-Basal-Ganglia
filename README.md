@@ -2,4 +2,4 @@ This repository contains both the model and the analysis for the paper "Gamma os
 
 -"BG Network" contains a Jupyter notebook for a single simulation of the basal ganglia network
 
--"Gamma-Oscillations-Basal-Ganglia" contains the specific analysis for the paper
+-Analysis_gamma_oscillations_basal_ganglia" contains the specific analysis for the paper
